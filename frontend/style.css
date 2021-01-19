@@ -1,0 +1,54 @@
+.font-header-footer {
+    font-size: 50px;
+    font-family: acier-bat-solid, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #ffffff;
+    padding-left: 5%;
+  }
+  
+  .card {
+    border: #95ccac solid 1px;
+    margin-top: 3%;
+    margin-right: 2%;
+    margin-bottom: 1%;
+    margin-left: 1%;
+    display: flexbox;
+  }
+  
+  .head-footer {
+    background-color: #124929;
+  }
+  
+  button {
+    background-color: #124929;
+    color: #ffffff;
+    border: none;
+  }
+  
+  button:hover {
+    background-color: #165c33;
+  }
+  
+  #price-total {
+    margin-top: 2%;
+    float: right;
+    background-color: #124929;
+    color: #ffffff;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+  }
+  
+  #waren-button {
+    float: right;
+    margin-top: 2%;
+  }
+  .colorspecial{
+      color: red;
+  }
+
+  img{
+      width: 200px;
+  }
